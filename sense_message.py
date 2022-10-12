@@ -8,4 +8,4 @@ white = (255,255,255)
 
 sense.clear()
 
-sense.show_message("Hello", text_colour = red)
+sense.show_message("Hello", text_colour = white, back_colour = blue)
